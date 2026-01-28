@@ -15,7 +15,8 @@ dependencies:
   - jupyterlab=4.5.0
   - seaborn=0.13.2
   - xlrd=2.0.2
+  - pytest=9.0.2
   - pip:
-    - jupyter-contrib-nbextensions==0.6.4
+    - jupyter-contrib-nbextensions
     - ipywidgets==8.1.8
     - openpyxl==3.1.5
