@@ -8,3 +8,5 @@ Locate the `environment.yml` file in your directory then use mamba or conda to i
 ```
 mamba env create -f environment.yml -y
 ```
+## Clarify environment setup instructions
+Minor wording cleanup in README for environment setup.
